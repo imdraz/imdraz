@@ -1,7 +1,8 @@
-# 👋 Hola, soy imdraz  
+# Hola, soy imdraz 👋  
 
-💻 Estudiante de **Tecnicatura en Ciberseguridad**  
-📍 Argentina  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=💻+Estudiante+de+Tecnicatura+en+Ciberseguridad;📍+Argentina;🚀+Apasionado+por+aprender+y+enseñar;🔐+Compartiendo+proyectos+y+contribuyendo+en+la+comunidad" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -12,10 +13,11 @@ Mi objetivo es **compartir proyectos propios**, aportar a la comunidad y **contr
 ---
 
 ## 🛠️ Tecnologías e intereses  
-- 🔐 Ciberseguridad (Blue Team & Red Team)  
-- 🐍 Python para seguridad  
-- 🌐 Redes y protocolos  
-- 📚 Educación y divulgación tecnológica  
+
+![Cybersecurity](https://img.shields.io/badge/🔐-Ciberseguridad-blueviolet?style=for-the-badge)  
+![Python](https://img.shields.io/badge/🐍-Python%20para%20seguridad-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Networking](https://img.shields.io/badge/🌐-Redes%20y%20protocolos-0088cc?style=for-the-badge&logo=cisco&logoColor=white)  
+![Education](https://img.shields.io/badge/📚-Educación%20y%20divulgación-ffcc00?style=for-the-badge)  
 
 ---
 
@@ -24,6 +26,7 @@ Mi objetivo es **compartir proyectos propios**, aportar a la comunidad y **contr
 - Herramientas simples para seguridad ofensiva y defensiva.  
 - Experimentos con Python orientados a la ciberseguridad.  
 - Documentación clara para que otros puedan aprender junto conmigo.  
+
 
 ---
 
