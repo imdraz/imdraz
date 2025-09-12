@@ -1,7 +1,7 @@
 # Hola, soy imdraz 👋  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=💻+Estudiante+de+Tecnicatura+en+Ciberseguridad;📍+Argentina;🚀+Apasionado+por+aprender+y+enseñar;🔐+Compartiendo+proyectos+y+contribuyendo+en+la+comunidad" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00CC66&background=0D1117&center=true&vCenter=true&width=700&lines=Estudiante+de+Ciberseguridad;Argentina;Apasionado+por+aprender+y+enseñar;Compartiendo+proyectos;Contribuyendo+a+la+comunidad" alt="Typing SVG" />
 </p>
 
 ---
