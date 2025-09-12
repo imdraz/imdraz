@@ -1,7 +1,7 @@
 # 👋 Hola, soy imdraz  
 
 💻 Estudiante de **Tecnicatura en Ciberseguridad**  
-📍 Desde Argentina  
+📍 Argentina  
 
 ---
 
